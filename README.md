@@ -1,2 +1,2 @@
-# deepfake-detection
-Identify the images as real or fake using state-of-the-art AI models
+# Extracting Text from Images
+Identify the text from images using cv2 and numpy libraries in python
