@@ -1,4 +1,4 @@
-# About the Projecct
+# About the Project and Kandi
 
 ## Extracting Text from Images
 Identify the text from images using cv2 and numpy libraries in Python. This is built on using the Kandi Kit by OpenWeaver
